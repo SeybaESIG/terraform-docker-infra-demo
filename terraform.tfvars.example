@@ -1,0 +1,5 @@
+network_name   = "custom_network"
+container_name = "my_nginx_container"
+image_name     = "nginx:alpine"
+external_port  = 8081
+
